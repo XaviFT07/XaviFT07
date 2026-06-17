@@ -26,6 +26,19 @@ Mi objetivo es fusionar la visión de las empresas de la ingeniería con el pode
 </div>
 </br></br>
 
+### 💻 Software & Herramientas
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) [Dominado y aplicando]
+</br>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) [En proceso] :hourglass_flowing_sand:
+</br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)[Próximamente].
+</br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[Próximamente].
+</br>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)[Próximamente].
+
+
 <h3 align="left">Contactame por:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-fernandez-analista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
