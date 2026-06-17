@@ -29,7 +29,7 @@ Mi objetivo es fusionar la visión de las empresas de la ingeniería con el pode
 <h3 align="left">Contactame por:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-fernandez-analista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href = "mailto:javierfdez308@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
+
 
 
 
