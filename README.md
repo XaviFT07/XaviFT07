@@ -27,6 +27,7 @@ Mi objetivo es fusionar la visión de las empresas de la ingeniería con el pode
 </br></br>
 
 ### 💻 Software & Herramientas
+</br>
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) [Dominado y aplicando]
 </br>
