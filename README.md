@@ -1,4 +1,4 @@
-<h1 align="center">Javier Fernández </h1>
+<h1 align="center">Javier Fernández :technologist: </h1>
 <h3 align="center">Ingeniero Industrial y de Sistemas [Titulado] | Analista de Datos Jr. [En proceso] :hourglass_flowing_sand: </h3>
 <p align="center">
 
@@ -14,7 +14,13 @@ para el modelado de datos (ETL), diseño de dashboards y automatización de repo
 🚀Mi ruta de especialización Actual:
 </br></br>
 
-  - 🔭 I’m currently working on upgrading java applications from jdk 8 to 21.
-  - 🌱 I’m currently learning; Junit, Jakarta, Spring Security, Spring Cloud.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, GKE, GCE, CI/CD, TDD, DDD, Docker, Kubernetes**
-  - ⚡ Fun fact: I look like a hobbit.
+  - 📊 Excel Avanzado & Dashboards [Dominado y aplicando]
+  - 📈 Power BI [Próximamente / En preparación].
+  - 💾 SQL [MySQL Próximamente]. 
+  - 🐍 Python para Ciencia de Datos [Próximamente].
+</br></br>
+
+<div align="justify">
+Mi objetivo es fusionar la visión de las empresas de la ingeniería con el poder de la analítica de datos. Te invito a que explores mis repositorios para
+  ver mis proyectos actuales.
+</div>
