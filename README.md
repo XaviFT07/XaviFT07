@@ -1,4 +1,4 @@
-<h1 align="center">Javier Fernández :technologist: </h1>
+<h1 align="center">Javier Fernández</h1>
 <h3 align="center">Ingeniero Industrial y de Sistemas [Titulado] | Analista de Datos Jr. [En proceso] :hourglass_flowing_sand: </h3>
 <p align="center">
 
